@@ -1,5 +1,11 @@
 test 1 master
 test 2 master
+CouchbaseXDCRReplicaSlow
+CouchbaseXDCRErroring
+CouchbaseXDCRPaused
+CouchbaseXDCRItemsRemaining
+ExporterDown: couchbase-xdcr
+NoExporterFound: couchbase-xdcr
 prometheus_docker:
 	version: "v2.50.1"
 Make sure the new version has been correctly applied.
