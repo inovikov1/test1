@@ -1,5 +1,28 @@
 test 1 master
 test 2 master
+prometheus_docker:
+	version: "v2.50.1"
+Make sure the new version has been correctly applied.
 
+prometheus:
+    prometheusSpec:
+      image:
+        tag: v2.50.1
+prometheus_docker:
+	version: "v2.50.1"
+Make sure the new version has been correctly applied.
+
+prometheus:
+    prometheusSpec:
+      image:
+        tag: v2.50.1
+prometheus_docker:
+	version: "v2.50.1"
+Make sure the new version has been correctly applied.
+
+prometheus:
+    prometheusSpec:
+      image:
+        tag: v2.50.1
 oficial docs
 ofcicial docs
