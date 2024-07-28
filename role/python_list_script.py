@@ -1,0 +1,1 @@
+#thish script works with lists for ansible
